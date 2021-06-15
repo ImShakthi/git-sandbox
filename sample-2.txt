@@ -1,5 +1,6 @@
 sample file added to main branch
 
+adding some content to middle
 
 EOF
 
